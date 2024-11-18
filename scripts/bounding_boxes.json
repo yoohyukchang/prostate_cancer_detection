@@ -1,0 +1,104 @@
+{
+    "label0008.nii.gz": {
+        "min_coordinates": [
+            81,
+            91,
+            8
+        ],
+        "max_coordinates": [
+            175,
+            169,
+            54
+        ],
+        "dimensions": [
+            94,
+            78,
+            46
+        ]
+    },
+    "label0002.nii.gz": {
+        "min_coordinates": [
+            83,
+            103,
+            9
+        ],
+        "max_coordinates": [
+            177,
+            177,
+            55
+        ],
+        "dimensions": [
+            94,
+            74,
+            46
+        ]
+    },
+    "label0012.nii.gz": {
+        "min_coordinates": [
+            81,
+            98,
+            8
+        ],
+        "max_coordinates": [
+            164,
+            163,
+            47
+        ],
+        "dimensions": [
+            83,
+            65,
+            39
+        ]
+    },
+    "label0005.nii.gz": {
+        "min_coordinates": [
+            84,
+            100,
+            10
+        ],
+        "max_coordinates": [
+            166,
+            168,
+            58
+        ],
+        "dimensions": [
+            82,
+            68,
+            48
+        ]
+    },
+    "label0003.nii.gz": {
+        "min_coordinates": [
+            74,
+            81,
+            0
+        ],
+        "max_coordinates": [
+            181,
+            185,
+            56
+        ],
+        "dimensions": [
+            107,
+            104,
+            56
+        ]
+    },
+    "label0001.nii.gz": {
+        "min_coordinates": [
+            77,
+            100,
+            0
+        ],
+        "max_coordinates": [
+            174,
+            178,
+            56
+        ],
+        "dimensions": [
+            97,
+            78,
+            56
+        ]
+    }
+}
