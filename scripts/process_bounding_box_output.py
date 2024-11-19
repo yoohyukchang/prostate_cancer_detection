@@ -18,8 +18,8 @@ def parse_arguments():
     parser.add_argument(
         "-o", "--output",
         type=str,
-        default="output.json",
-        help="Path to the output JSON file. Defaults to 'output.json'."
+        default="largest_bb_dims.json",
+        help="Path to the output JSON file. Defaults to 'largest_bb_dims'."
     )
     return parser.parse_args()
 
