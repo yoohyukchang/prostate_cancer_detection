@@ -1,0 +1,10 @@
+jupyter
+ipykernel
+numpy
+nibabel
+matplotlib
+tensorflow
+scikit-learn
+patchify
+keras
+segmentation-models-3D
