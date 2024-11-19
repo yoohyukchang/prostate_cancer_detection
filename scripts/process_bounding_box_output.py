@@ -90,14 +90,14 @@ def add_padding_and_round(file_info: Dict[str, Any], padding: int = 2, tolerance
         updated_dimensions = [dim + 4 for dim in original_dimensions]
     
     # Round dimensions to nearest power of 2 if within tolerance
-    rounded_dimensions = [
-        round_to_nearest_power_of_2(dim, tolerance) for dim in updated_dimensions
-    ]
+    # rounded_dimensions = [
+    #     round_to_nearest_power_of_2(dim, tolerance) for dim in updated_dimensions
+    # ]
     
     return {
         "min_coordinates": padded_min,
         "max_coordinates": padded_max,
-        "dimensions": rounded_dimensions
+        "dimensions": updated_dimensions
     }
 
 # Processing the data to find the largest bounding box dimensions, add padding, and round dimensions
